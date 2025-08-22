@@ -1,5 +1,9 @@
 # 👋 Hey, I’m Jose aka Andy
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Cybersecurity+Professional;SOC+Analyst+%E2%9E%9D+Security+Engineer;Threat+Hunter+%7C+Cloud+Security+Learner;Building+%F0%9F%94%A5+Cyber6Kill+Brand" />
+</p>
+
 🚀 Cybersecurity Professional | SOC Analyst → Cloud Security Engineer (in progress)  
 💻 Passionate about defensive security, threat hunting, and cloud security.  
 ⚡ US Air Force Veteran & lifelong learner — turning cyber skills into impact.  
